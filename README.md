@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+✨ ─── ⋆⭐⋆ ─── ✨
+## Hola 👋 Soy Ixchel
+✨ ─── ⋆⭐⋆ ─── ✨ 
+<img src="https://github.com/user-attachments/assets/e7403562-039a-4ee6-b496-9bb51b66a7fd" width="160" style="border-radius: 50%;" alt="Estrella" />
+  </div>
+  
+✨ ─── ⋆⭐⋆ ─── ✨ 
+  ### 🌟 Sobre mí
+✨ ─── ⋆⭐⋆ ─── ✨ 
 
-<!--
-**IxchelParache/IxchelParache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Estoy trabajando en:** Mi desarrollo personal y excelencia académica.
+- 🌱 **Estoy aprendiendo:** Diferentes enfoques para razonar y aprender matemáticas de manera profunda.
+- 👯 **Busco colaborar en:** Iniciativas estudiantiles, proyectos de código abierto o lógica de programación.
+- 🤔 **Busco ayuda con:** Nuevas herramientas tecnológicas y métodos para optimizar mi aprendizaje.
+- 💬 **Pregúntame sobre:** Matemáticas, organización de proyectos o ideas para nuevos temas.
+- 📫 **Cómo contactarme:** [sp.ixchel@gmail.com](mailto:sp.ixchel@gmail.com)
+- 😄 **Pronombres:** Ella
+- ⚡ **Dato curioso:** Tengo el borrador de un libro inconcluso guardado en alguna carpeta.
+  
+✨ ─── ⋆⭐⋆ ─── ✨
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *¡Gracias por visitar mi perfil!* ✨
+
+</div>
