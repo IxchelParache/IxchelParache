@@ -12,7 +12,7 @@
       </clipPath>
     </defs>
     <!-- Aplicamos la imagen dentro del recorte de la estrella -->
-    <image href="https://github.com/user-attachments/assets/e7403562-039a-4ee6-b496-9bb51b66a7fd" 
+    <image href=["https://github.com/user-attachments/assets/e7403562-039a-4ee6-b496-9bb51b66a7fd](https://pin.it/2Nz85ymI7)" 
            width="100" height="100" 
            preserveAspectRatio="xMidYMid slice" 
            clip-path="url(#star-clip)" />
