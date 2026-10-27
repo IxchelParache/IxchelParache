@@ -2,8 +2,22 @@
 ✨ ─── ⋆⭐⋆ ─── ✨
 ## Hola 👋 Soy Ixchel
 ✨ ─── ⋆⭐⋆ ─── ✨ 
-<img src="https://github.com/user-attachments/assets/e7403562-039a-4ee6-b496-9bb51b66a7fd" width="160" style="border-radius: 50%;" alt="Estrella" />
-  </div>
+  
+<p align="center">
+  <svg width="160" height="160" viewBox="0 0 100 100">
+    <defs>
+      <!-- Definimos la forma de estrella como máscara -->
+      <clipPath id="star-clip">
+        <polygon points="50,5 61,35 95,35 68,57 79,91 50,70 21,91 32,57 5,35 39,35" />
+      </clipPath>
+    </defs>
+    <!-- Aplicamos la imagen dentro del recorte de la estrella -->
+    <image href="https://github.com/user-attachments/assets/e7403562-039a-4ee6-b496-9bb51b66a7fd" 
+           width="100" height="100" 
+           preserveAspectRatio="xMidYMid slice" 
+           clip-path="url(#star-clip)" />
+  </svg>
+</p>
   
 ✨ ─── ⋆⭐⋆ ─── ✨ 
   ### 🌟 Sobre mí
