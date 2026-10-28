@@ -21,7 +21,7 @@
 <div align="center">
   
 ✨ ─── ⋆⭐⋆ ─── ✨ 
-🌟 <img src="https://github.com/user-attachments/assets/e7403562-039a-4ee6-b496-9bb51b66a7fd" width="160" style="border-radius: 50%;" alt="Estrella" />
+<img src="https://github.com/user-attachments/assets/e7403562-039a-4ee6-b496-9bb51b66a7fd" width="160" style="border-radius: 50%;" alt="Estrella" />
 ✨ ─── ⋆⭐⋆ ─── ✨
 
 ✨ ─── ⋆⭐⋆ ─── ✨ 
