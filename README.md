@@ -1,10 +1,10 @@
 <div align="center">
 ✨ ─── ⋆⭐⋆ ─── ✨
-🌟## Hola 👋 Soy Ixchel
+🌟 Hola 👋 Soy Ixchel
 ✨ ─── ⋆⭐⋆ ─── ✨
 
 ✨ ─── ⋆⭐⋆ ─── ✨ 
-🌟## Sobre mí
+🌟Sobre mí
 ✨ ─── ⋆⭐⋆ ─── ✨ 
 
 - 🔭 **Estoy trabajando en:** Mi desarrollo personal y excelencia académica.
