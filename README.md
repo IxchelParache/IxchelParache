@@ -1,12 +1,11 @@
 <div align="center">
 ✨ ─── ⋆⭐⋆ ─── ✨
-🌟 Hola 👋 Soy Ixchel
-✨ ─── ⋆⭐⋆ ─── ✨ 
-🌟 Sobre mí
-✨ ─── ⋆⭐⋆ ─── ✨ 
-  </div>
-  
+🌟## Hola 👋 Soy Ixchel
 ✨ ─── ⋆⭐⋆ ─── ✨
+
+✨ ─── ⋆⭐⋆ ─── ✨ 
+🌟## Sobre mí
+✨ ─── ⋆⭐⋆ ─── ✨ 
 
 - 🔭 **Estoy trabajando en:** Mi desarrollo personal y excelencia académica.
 - 🌱 **Estoy aprendiendo:** Diferentes enfoques para razonar y aprender matemáticas de manera profunda.
