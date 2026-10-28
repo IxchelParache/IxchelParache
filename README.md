@@ -1,13 +1,12 @@
 <div align="center">
 ✨ ─── ⋆⭐⋆ ─── ✨
-## Hola 👋 Soy Ixchel
-✨ ─── ⋆⭐⋆ ─── ✨ 
-  
-<img src="https://github.com/user-attachments/assets/e7403562-039a-4ee6-b496-9bb51b66a7fd" width="160" style="border-radius: 50%;" alt="Estrella" />
-  
+🌟 Hola 👋 Soy Ixchel
 ✨ ─── ⋆⭐⋆ ─── ✨ 
 🌟 Sobre mí
 ✨ ─── ⋆⭐⋆ ─── ✨ 
+  </div>
+  
+✨ ─── ⋆⭐⋆ ─── ✨
 
 - 🔭 **Estoy trabajando en:** Mi desarrollo personal y excelencia académica.
 - 🌱 **Estoy aprendiendo:** Diferentes enfoques para razonar y aprender matemáticas de manera profunda.
@@ -23,5 +22,7 @@
 <div align="center">
 
 ✨ *¡Gracias por visitar mi perfil!* ✨
-
+✨ ─── ⋆⭐⋆ ─── ✨ 
+🌟 <img src="https://github.com/user-attachments/assets/e7403562-039a-4ee6-b496-9bb51b66a7fd" width="160" style="border-radius: 50%;" alt="Estrella" />
+✨ ─── ⋆⭐⋆ ─── ✨ 
 </div>
