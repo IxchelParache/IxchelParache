@@ -1,10 +1,10 @@
 <div align="center">
 ✨ ─── ⋆⭐⋆ ─── ✨
-🌟 Hola 👋 Soy Ixchel
+  Hola 👋 Soy Ixchel
 ✨ ─── ⋆⭐⋆ ─── ✨
 
 ✨ ─── ⋆⭐⋆ ─── ✨ 
-🌟Sobre mí
+  Sobre mí
 ✨ ─── ⋆⭐⋆ ─── ✨ 
 
 - 🔭 **Estoy trabajando en:** Mi desarrollo personal y excelencia académica.
@@ -19,9 +19,13 @@
 ✨ ─── ⋆⭐⋆ ─── ✨
 
 <div align="center">
-
-✨ *¡Gracias por visitar mi perfil!* ✨
+  
 ✨ ─── ⋆⭐⋆ ─── ✨ 
 🌟 <img src="https://github.com/user-attachments/assets/e7403562-039a-4ee6-b496-9bb51b66a7fd" width="160" style="border-radius: 50%;" alt="Estrella" />
+✨ ─── ⋆⭐⋆ ─── ✨
+
 ✨ ─── ⋆⭐⋆ ─── ✨ 
+✨ *¡Gracias por visitar mi perfil!* ✨
+✨ ─── ⋆⭐⋆ ─── ✨ 
+
 </div>
